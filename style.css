@@ -101,3 +101,13 @@ p {
 #blog .row {
   margin-bottom: 40px;
 }
+
+a {
+  color: #090F0F;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF4500;
+  text-decoration: none;
+}
