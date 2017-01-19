@@ -83,3 +83,17 @@ body {
 .right {
   text-align: right;
 }
+
+h2, h5, h6 {
+  line-height: 30px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+#centered {
+  text-align: center;
+}
