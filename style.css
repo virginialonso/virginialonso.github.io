@@ -94,6 +94,10 @@ p {
   margin-bottom: 20px;
 }
 
-#centered {
+.centered {
   text-align: center;
+}
+
+#blog .row {
+  margin-bottom: 40px;
 }
